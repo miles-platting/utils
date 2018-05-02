@@ -126,7 +126,7 @@ int main(int argc, char** argv)
     		"Dowler999"
     		"999"
     		"Karen999Maree999"
-    		"999"
+    		"999";
     s_delimiter = "999";
 	oz_utils::vector_str v2;
 
