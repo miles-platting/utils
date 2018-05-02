@@ -1,4 +1,0 @@
-main starting
-main
-0.4.0-dev
-Finished goodbye
