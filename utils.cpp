@@ -132,7 +132,6 @@ string oz_utils::localtime_now()
   	return s;
 }
 
-
 /*
 This is probably not available on Windows.
 */
@@ -143,7 +142,6 @@ bool oz_utils::is_dir_exist(const std::string& path)
     {	return false;
     }
     return (info.st_mode & S_IFDIR) != 0;
-
 }
 
 bool oz_utils::make_path(const std::string& path)

@@ -1,1 +1,2 @@
-Test
+1 - add defines for Windows
+2 - modify is_dir_exist and make_path for Windows
